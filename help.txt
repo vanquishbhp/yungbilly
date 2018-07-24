@@ -1,0 +1,11 @@
+Y U N G    B I L L Y    H E L P   D O C U M E N T
+
+C O M M A N D   L I S T
+
+^greet: Causes Yung Billy to greet you, then call you a tool.
+
+^help: Causes Yung Billy to send you this help document.
+
+C O M M A N D S   T H A T   O N L Y   T H E   O W N E R   C A N   U S E 
+
+^sleep: Turns Yung Billy off.
