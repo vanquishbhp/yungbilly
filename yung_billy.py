@@ -33,3 +33,7 @@ async def on_member_join(member): #this sub gives a notification when someone jo
 
 
 client.run("[Token goes here]") #the event loop; it's pretty much 'main'
+
+#NB: because sub names are events they **have** to be written exactly as they are
+#in order to trigger as theyre supposed to, as far as i can tell
+#got a fuckton of errors because of it before
