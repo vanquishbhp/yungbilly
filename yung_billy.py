@@ -4,7 +4,7 @@ from discord.ext.commands import Bot
 from discord.ext import commands #importin shit
 from sys import exit
 
-Client = discord.Client() #establishes client 
+session = discord.Client() #establishes client 
 client = commands.Bot(command_prefix = "^") #establishes bot
 
 @client.event
