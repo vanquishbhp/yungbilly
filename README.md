@@ -3,6 +3,6 @@
 baby's first incredibly shitty discord bot
 
 # current features
-can greet, then insult you
-can send you a command list
-can play music but its really broken lol
+1. can greet, then insult you 
+2. can send you a command list 
+3. can play music but its really broken lol
