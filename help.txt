@@ -6,6 +6,10 @@ C O M M A N D   L I S T
 
 ^help: Causes Yung Billy to send you this help document.
 
+^play [YOUTUBE URL]: Causes Yung Billy to join your voice channel, if he hasn't done so already, and play music from youtube
+[BROKEN AF, WILL NEED TO FIX SOON]
+
+
 C O M M A N D S   T H A T   O N L Y   T H E   O W N E R   C A N   U S E 
 
 ^sleep: Turns Yung Billy off.
